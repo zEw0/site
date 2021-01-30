@@ -72,6 +72,7 @@ const commands = {
 		cmd: 'readme',
 		res: 'Please note that this website is completly pasted (cuz ya) so don't blame me if the site is somehow broken. btw the guy that made this site is sneakyevil'
 	},
+	}
 }
 
 var prephraseRoot = '<span class="red">root@sneakyevil.eu</span>:<span class="blue">~</span># ';

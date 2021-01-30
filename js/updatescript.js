@@ -45,11 +45,6 @@ const commands = {
 		cmd: 'aboutme',
 		res: 'About Me:<br># <span class="red">Real Name:</span> Shitass<br># <span class="red">Born:</span> ' + sMonth["6"] + ' 09 2001 <span class="red">(Age: ' + GetAge("2001-07-09") + ')</span><br># <span class="red">Country:</span> Minecraft<br><br>Bio:<br># <span class="red">Programming:</span> Java (cuz mc was written in java lol).<br># <span class="red">Languages:</span><br>- Chinese <span class="red">(Nihao?)</span><br>- English <span class="red">(Intermediate)</span><br>- Indonesian <span class="red">(Basic)</span><br>- Japanese <span class="red">(Basic)</span><br>- Slovak <span class="red">(National)</span>'
 	},
-	links: 
-	{
-		cmd: 'links',
-		res: 'Links:<br># <span class="red"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><u>Youtube</u></a></span>
-	},
 	visitors: 
 	{
 		cmd: 'visitors',
@@ -73,8 +68,8 @@ const commands = {
 	readme:
 	{
 		cmd: 'readme',
-		res: 'Please note that this website is completly pasted (cuz ya) so don't blame me if the site is somehow broken. btw the guy that made this site is sneakyevil'
-	},
+		res: 'Please note that this website is completly pasted (cuz ya) so dont blame me if the site is somehow broken. btw the guy that made this site is sneakyevil'
+	}
 }
 
 var prephraseRoot = '<span class="red">root@sneakyevil.eu</span>:<span class="blue">~</span># ';
